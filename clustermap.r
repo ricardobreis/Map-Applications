@@ -11,11 +11,6 @@ library(leaflet)
     "long" 		= c(-46.633308, -46.651570, -46.454300, -46.708580, -46.677200, -46.641720, -46.709280, -46.789890, -46.661580, -46.597240)
   )
   
-  df$loja 		<- as.character(df$loja)
-  df$bandeira 	<- as.character(df$bandeira)
-  df$estado 	<- as.character(df$estado)
-  df$cidade 	<- as.character(df$cidade)
-  
   # Renomeia as colunas da tabela
   names(df) <- c("Código", "Loja", "Bandeira", "Estado", "Cidade", "Lat", "Long")
   
