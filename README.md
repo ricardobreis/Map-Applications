@@ -6,3 +6,6 @@ Examples of map applications using Leaflet.
 
 ## Sales Map with Infowindow and Links
 ![Sales Map - Infowindow](https://github.com/ricardobreis/Map-Applications/blob/master/salesmap-infowindow.PNG)
+
+## Cluster Map
+![Cluster Map](https://github.com/ricardobreis/Map-Applications/blob/master/clustermap.png)
